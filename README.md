@@ -10,6 +10,8 @@ to be directly embedded in the original repo. Instead precompiled binaries are
 included in the DaltonLens repo, and this repository is here to host the scripts
 to build those binaries.
 
+**Important: ** DaltonLens is expected to be cloned next to this repo. So that
+`../DaltonLens/deps/prebuilt` is the correct path to install the binaries into.
 
 # Submodules
 
